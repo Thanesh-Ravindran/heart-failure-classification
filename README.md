@@ -1,2 +1,4 @@
-# heart-disease-classification
-Heart Disease Classification: Machine learning for heart disease diagnosis. Explore datasets &amp; models.
+# Heart Failure Classification: 
+Machine learning for heart failure diagnosis
+
+_still wip_
